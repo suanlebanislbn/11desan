@@ -8,4 +8,8 @@ public class HEELLLO {
         System.out.print("红莲骑士兽");
        return "战斗暴龙兽";
     }
+
+    public int hhhh(){
+        return 1;
+    }
 }
