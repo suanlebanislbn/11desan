@@ -1,0 +1,27 @@
+Index: src/HiGit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/HiGit.java	(date 1530328368000)
++++ src/HiGit.java	(revision )
+@@ -2,6 +2,6 @@
+     public static void main(String args[]){
+         System.out.println("HiGit");
+ //哈哈你来打我啊
+-//测测测测caa
++//测测测测cbb
+     }
+ }
+diff --git out/production/higit/HiGit.class out/production/higit/HiGit.class
+index dd12027cc909e14b96977d2b796b98d83289d88b..9bf8267ebfde40bd635e00367f70f67a8c017bd6
+GIT binary patch
+literal 504
+zc${re%T5A85Ul30%dV>+2>4cR=)t|1c))luQ4bq6!Eo_3-~@;4!z_b|pQQ&)Joo{A
+zl(BapK@;ZCm9FlonwsyQ&o2PSXt}Vk=Ae#72~8L4*s#&Gu}QE_Rjl+GA>Tge5enzY
+zgCvv#70c^M)R*a<=!eWygJdAWo=8>J&&Yy)RAYi2T&YW?J4{4E#e_!tJ{XB-;fEp~
+z`dyu>c-S%WA|3LD+JZ5`?Ix3SATLxV?Hb9WY|Vp>l8r47+t?u#&BVs8hdt~QDs!ou
+z{zwk=KdSpO)-vLF$%F^>sjo`>TQ=2fEk(rEwFNZiddj+x1J&D$@}Pwxe{6PgpzM`g
+z9qxQaVk{nhfL_hm<!Tv{u*B7yE-)@LI#@w@cKO7JG53aCHUEynT)<@n^6X>%5pht#
+Ksu8Z5&Dt+p<YSBg
+
